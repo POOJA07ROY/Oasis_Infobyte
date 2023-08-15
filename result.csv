@@ -1,0 +1,6 @@
+Model,Score
+Logistic Regression,0.947
+Support Vector Machines,0.947
+Naive Bayes,0.947
+KNN,0.947
+Decision Tree,0.921
